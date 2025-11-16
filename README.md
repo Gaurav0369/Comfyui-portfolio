@@ -46,9 +46,9 @@ Wan enables smooth video generation with image and text and a wide range of styl
 
 ### Examples
 
-<video width="400" controls>
-  <source src="product_ugc.mp4" type="video/mp4">
-</video>
+[📹 Watch Video](product_ugc.mp4)
+
+*Click the link above to download and view the video*
 
 ### Models & LoRAs Used
 
