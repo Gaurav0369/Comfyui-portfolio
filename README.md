@@ -46,9 +46,9 @@ Wan enables smooth video generation with image and text and a wide range of styl
 
 ### Examples
 
-[📹 Watch Video](product_ugc.mp4)
+[📹 Watch Video in Browser](video.html) | [▶️ Play Video Directly](https://raw.githubusercontent.com/Gaurav0369/Comfyui-portfolio/main/product_ugc.mp4) | [📥 Download Video](product_ugc.mp4)
 
-*Click the link above to download and view the video*
+*Click any link above - the video will play directly in your browser*
 
 ### Models & LoRAs Used
 
