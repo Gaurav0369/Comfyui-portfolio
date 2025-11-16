@@ -46,7 +46,7 @@ Wan enables smooth video generation with image and text and a wide range of styl
 
 ### Examples
 
-[📹 Watch Video in Browser](video.html) | [▶️ Play Video Directly](https://raw.githubusercontent.com/Gaurav0369/Comfyui-portfolio/main/product_ugc.mp4) | [📥 Download Video](product_ugc.mp4)
+[▶️ Download Video Directly](https://raw.githubusercontent.com/Gaurav0369/Comfyui-portfolio/main/product_ugc.mp4) 
 
 *Click any link above - the video will play directly in your browser*
 
